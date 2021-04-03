@@ -1,0 +1,4 @@
+const TOKEN_NAME = "QREVIEW_TOKEN";
+const USER_DATA = "USER_DATA";
+
+export { TOKEN_NAME, USER_DATA };
